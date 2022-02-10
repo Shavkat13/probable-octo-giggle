@@ -1,0 +1,88 @@
+</!DOCTYPE html 
+	<html>
+<head>
+	<title>
+Shava 1
+	</title>
+</head>
+<body>
+
+		</body>
+	</html>
+	  
+		<neta charset="utf-8">
+		</head>
+		<body>
+			<h1> BookRooms.com </h1>
+			<br>
+			<a href="http://www.hotelfatihistanbul.com/index.html">
+				    	<button> Hotel Fatih İstanbul </button><br>
+<br>
+<a href="https://www.google.com/maps/@41.013817,28.9412081,14z"><br>
+	<button>Map</button>
+	<button>123</button>
+	<button>123</button>
+	<button>123</button>
+	<button>123</button>
+	<button>123</button><br>
+
+		<neta charset="utf-8">
+<a href=""><br>
+
+	     <button> Hotel </button>
+	     <a href="h">
+				 <button> Reservation </button>
+				 <a href="">
+				 <a href="">
+				  <button> Rooms </button>
+				  <a href="">
+				   <button> Check-out Check-out </button>
+				   <a href="">
+				    <button> Price </button><br>
+				  <br>
+				    	
+<select><option>Пункт 1</option>
+  <option>Пункт 2</option></select>
+<select name="num" autofocus>
+    <option value="1">uno</option>
+    <option value="2">dos</option>
+    <option value="3">tres</option>
+    <option value="4">cinco</option>
+   </select><br>
+
+   	<p>onlıne</p><BR>
+
+   <p>
+   font-family: george:
+   font-size: medium:
+   font-weight: bold:
+   text-transform: uppercase:
+   list-style-type: none:
+ 
+ </p>
+<P><datalist id="<идентификатор>">
+ <option value="Текст1">
+ <option value="Текст2">
+</datalist></p>
+
+ <video width="300" height="200" controls>
+   <source src="video/women.ogv" type='video/ogg; codecs="theora, vorbis"'>
+   <source src="video/women.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+   <source src="video/women.webm" type='video/webm; codecs="vp8, vorbis"'>
+   Тег video не поддерживается вашим браузером.
+  </video>
+  <iframe width="300" height="200" src="https://www.youtube.com/embed/Lh_uHsYtShM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+  <li> Shavkat </li>
+  <li>имя директории</li>
+</dir>
+<cite>tekst</cite><br>
+<p>class="имя"shava</p>
+  	    	<button> ____________________________________________________ </button>
+
+<form action="textarea1.php" method="post">
+    <p><b>Введите ваш отзыв:</b></p>
+    <p><textarea rows="10" cols="45" name="text"></textarea></p>
+    <p><input type="submit" value="Отправить"></p>
+  </form>
